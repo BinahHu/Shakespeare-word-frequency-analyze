@@ -5,7 +5,6 @@ hzy's final project for Shakespeare's tragedy and comedy intensive reading
 
 
 ## Usage
-
 First go to **src** dir, and make sure that **pic**, **src/data** dir already exist.
 
 
